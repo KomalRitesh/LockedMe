@@ -14,6 +14,10 @@ public class LockNew
 
 		do
 		{
+			System.out.println("******************************************");
+			System.out.println("Welcome to LockedMe.com by Komal R. Dhole");
+			System.out.println("********************************************");
+
 			System.out.println("1. Display all files");
 			System.out.println("2. Other File Operations");
 			System.out.println("3. Exit");
